@@ -15,7 +15,7 @@ The uses ResNet-101 pretrained on ImageNet and ResNet-101, please download ResNe
   ```markdown
   python rsprotosemi_sig.py [--config]
 # Acknowledgement
-[Github](https://github.com/Haoyu-Xie/PRCL)
+[PRCL](https://github.com/Haoyu-Xie/PRCL)
 Thanks a lot for their splendid work!
 
 
