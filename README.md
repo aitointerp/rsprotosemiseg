@@ -9,7 +9,7 @@
 * Please download three original datasets : LoveDA, DGLCC, Potsdam.
 * For the DGLCC and Postdam datasets, the original images are cropped into fixed-size patches of 1024×1024 pixels using a sliding window.
 # Pretrained
-The uses ResNet-101 pretrained on ImageNet and ResNet-101, please download ResNet-101 pretrained weights.
+The uses ResNet-101 pretrained on ImageNet and ResNet-101, please download from [here](https://download.pytorch.org/models/resnet101-63fe2227.pth) for ResNet-101 pretrained weights.
 # Run
 * please run the following script:<br>
   ```markdown
